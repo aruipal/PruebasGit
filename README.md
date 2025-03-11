@@ -1,4 +1,4 @@
-Para descargar un repositorio de GitHub y abrirlo en Visual Studio Code:
+##Para descargar un repositorio de GitHub y abrirlo en Visual Studio Code:
 1. Copiar la URL del repositorio
 2. Clonar el repositorio en VS Code:
    Abre Visual Studio Code.
@@ -16,7 +16,7 @@ Para descargar un repositorio de GitHub y abrirlo en Visual Studio Code:
        git config --global user.name "TuNombre"
        git config --global user.email "TuEmail"
 
-Para cargar los cambios de tu repositorio en Visual Studio Code a tu página de GitHub, sigue estos pasos:
+##Para cargar los cambios de tu repositorio en Visual Studio Code a tu página de GitHub, sigue estos pasos:
 1. Asegúrate de que tu repositorio está vinculado a GitHub
     Si clonaste tu repositorio desde GitHub, ya está vinculado. Si no, verifica con: git remote -v
     Si no ves la URL de tu repositorio, agrégala con: git remote add origin https://github.com/TU_USUARIO/TU_REPOSITORIO.git
